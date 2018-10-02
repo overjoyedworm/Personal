@@ -1,0 +1,9 @@
+[28-Nov-2006 18:06:18] PHP Fatal error:  [Zend Optimizer] Zend Optimizer 3.0.1 is incompatible with eAccelerator 0.9.4 in Unknown on line 0
+[28-Nov-2006 19:11:01] PHP Fatal error:  [Zend Optimizer] Zend Optimizer 3.0.1 is incompatible with eAccelerator 0.9.4 in Unknown on line 0
+[22-Apr-2007 19:41:13] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'express'@'localhost' (using password: YES) in /home/mlanders/public_html/wizard.php on line 240
+[02-Jul-2007 22:26:09] PHP Warning:  main(../footer.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/mlanders/public_html/Media.php on line 32
+[02-Jul-2007 22:26:09] PHP Warning:  main(../footer.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/mlanders/public_html/Media.php on line 32
+[02-Jul-2007 22:26:09] PHP Warning:  main() [<a href='function.include'>function.include</a>]: Failed opening '../footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mlanders/public_html/Media.php on line 32
+[02-Jul-2007 22:26:30] PHP Warning:  main(../footer.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/mlanders/public_html/Media.php on line 32
+[02-Jul-2007 22:26:30] PHP Warning:  main(../footer.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/mlanders/public_html/Media.php on line 32
+[02-Jul-2007 22:26:30] PHP Warning:  main() [<a href='function.include'>function.include</a>]: Failed opening '../footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mlanders/public_html/Media.php on line 32

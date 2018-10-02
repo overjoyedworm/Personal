@@ -1,0 +1,115 @@
+/* CSS Document */
+body {
+	background: #fff url(images/bg.gif) top repeat-x;
+	color: #777;
+	font-family:"Helvetica Neue", Arial, "Times New Roman";
+}
+
+#header{
+	padding:2px 2px;;
+
+}
+
+#topbar{
+	padding:15px;
+	font-size:24px;
+	font-family:"Helvetica Neue", Arial, "Times New Roman";
+	color:#FFFFFF;
+	float:left;
+	width:45%;
+}
+
+#menu {
+	height:100%;
+	float:right;
+	margin-top:-15px;
+	text-align:right;
+	padding-top:50px;
+	width:50%;
+}
+
+#menu a {
+	height:27px;
+	padding-top:8px;
+	float:right;
+	text-align:center;
+	width:79px;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+#menu a:hover {
+	height:25px;
+	margin-top:2px;
+	background-repeat:no-repeat;
+	background-position:center bottom;
+}
+
+#wrapper{
+	width:100%;
+	float:left;
+}
+#specials{
+	width:788px;
+	height:156;
+	margin-top:30px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#flash{
+	width:450px;
+	height:100%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;
+	text-align:center;
+	border: 5px solid #c0c0c0;
+}
+
+.left{
+	width:250px;
+	height: 150px;
+	border:3px solid #c0c0c0;
+	float:left;
+	margin-left:auto;
+}
+
+.center{
+	width:250px;
+	height: 150px;
+	border:3px solid #c0c0c0;
+	float:left;
+	margin-left:10px;
+}
+
+.centerflash{
+	width:450px;
+	height: 154px;
+	border:3px solid #c0c0c0;
+	float:left;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.right{
+	width:250px;
+	height: 150px;
+	border:3px solid #c0c0c0;
+	float:left;
+	margin-left:10px;
+	margin-bottom:10px;
+	margin-right:auto;
+	}
+
+#clear{
+	clear: both;
+}
+
+#content{
+	border:1px solid;
+	width: 786px;
+	height:100%;
+	margin-left:auto;
+	margin-right:auto;
+}

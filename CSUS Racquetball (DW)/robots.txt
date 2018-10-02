@@ -1,0 +1,11 @@
+# robots.txt generated at www.mcanerin.com
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /training/
+Disallow: /steph/
+Disallow: /halo3films/
+Disallow: /FCS/
+Disallow: /beertuesday/
+Disallow: /avatars/
+Disallow: /slideshow/
+Disallow: /mt/
