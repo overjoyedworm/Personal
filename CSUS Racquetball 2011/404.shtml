@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<META name="verify-v1" content="tADyvXHVx0npWFvUIJeBNtiSzGb8LFwIQ7u3O1wHVxk=" />
+<title>CSUS Racquetball</title>
+<style type="text/css">
+@import url(style.css);
+.style1 {font-size: 12px}
+</style>
+</head>
+<body>
+<div id="container">
+  <!--Header-->
+  <div id="header"></div>
+  <div id="menu2">
+      <a href="index.php">Home</a>
+      <a href="about.php">About</a>
+      <a href="members.php">Members</a>
+<!--       <a href="slideshow/Media.php">Media</a> -->
+      <a href="clubs.php">Clubs</a>
+<!--       <a href="tournaments.php">Tournaments</a> -->
+      <a href="links.php">Links</a>
+<!--       <a href="contact.php">Contact</a> -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1771173-1";
+urchinTracker();
+</script>
+
+</div>
+
+      <!--Content-->
+	<div id="content">
+	      <div id="news3">
+	      	<p>404! We're sorry the page you are looking for is not longer available.</p>
+    
+  </div>
+  </div>
+    <!--Footer-->
+  <div id="footer">
+      <div align="center">copyright csusracquetball.com 2010<br />   
+            <br />
+      </div>
+  </div>
+</div>
+</body>
+</html>
